@@ -338,6 +338,13 @@ msgstr "Nos données"
 
 #: ckanext/montreal_theme/templates/home/layout4.html:36
 msgid "View all datasets"
+<<<<<<< HEAD
+=======
+msgstr "Voir tous les ensembles"
+
+#: ckanext/montreal_theme/templates/home/layout4.html:98
+msgid "View all"
+>>>>>>> a4207b5 (fixed homepage button translation and routing)
 msgstr "Voir tous les ensembles"
 
 #: ckanext/montreal_theme/templates/home/layout4.html:101
