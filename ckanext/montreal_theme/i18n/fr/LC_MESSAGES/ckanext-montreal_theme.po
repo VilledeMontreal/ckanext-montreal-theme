@@ -343,10 +343,16 @@ msgid "View all datasets"
 =======
 msgstr "Voir tous les ensembles"
 
+<<<<<<< HEAD
 #: ckanext/montreal_theme/templates/home/layout4.html:98
 msgid "View all"
 >>>>>>> a4207b5 (fixed homepage button translation and routing)
 msgstr "Voir tous les ensembles"
+=======
+#: ckanext/montreal_theme/templates/home/snippets/applications.html:15
+msgid "by"
+msgstr "par"
+>>>>>>> 0924610 (homepage changes)
 
 #: ckanext/montreal_theme/templates/home/layout4.html:101
 msgid "View all"
